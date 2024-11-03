@@ -56,7 +56,7 @@ Below is the high-level architecture of the project, which includes data acquisi
 1. **Clone the Repository**:
    - First, clone the repository to your local machine:
      ```bash
-     git clone https://github.com/YourUsername/glacier_insight.git
+     git clone https://github.com/Carlos93U/glacier_insight.git
      cd glacier_insight
      ```
 
