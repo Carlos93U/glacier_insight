@@ -6,7 +6,7 @@ This project analyzes the environmental impact on glaciers across Peru using bas
 
 
 <div align="center">
-    <img src="docs/animation.gif" alt="Glacier Comparison gif" style="width:100%; height:250px;">
+    <img src="docs/animation.gif" alt="Glacier Comparison gif" style="width:100%; height:400px;">
 </div>
 
 **Data Source**: The glacier and mountain range images were obtained from the Geoportal INAIGEM website and saved locally for further analysis.
