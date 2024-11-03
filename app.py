@@ -18,7 +18,7 @@ mountain_ranges = {
 option = st.selectbox("Choose Mountain Range:", list(mountain_ranges.keys()))
 
 # Base URL for the images and text file
-base_url = "https://github.com/Carlos93U/glacier_insight/raw/first-version/data/raw"
+base_url = "https://github.com/Carlos93U/glacier_insight/raw/main/data/raw"
 
 # Generate URLs and title dynamically based on selected option
 mountain_id = mountain_ranges[option]
