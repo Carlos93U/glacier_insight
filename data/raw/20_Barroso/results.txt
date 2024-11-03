@@ -1,0 +1,3 @@
+Glacier Pixels in 1989: 0
+Glacier Pixels in 2020: 3
+Percentage change in glacier area: -inf %
