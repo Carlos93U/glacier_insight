@@ -6,7 +6,7 @@ This project analyzes the environmental impact on glaciers across Peru using bas
 
 
 <div align="center">
-    <img src="docs/animation.gif" alt="Glacier Comparison gif" style="width:100%; max-width:800px;">
+    <img src="docs/animation.gif" alt="Glacier Comparison gif" style="width:100%; max-width:1000px;">
 </div>
 
 **Data Source**: The glacier and mountain range images were obtained from the Geoportal INAIGEM website and saved locally for further analysis.
@@ -124,6 +124,6 @@ For any questions or feedback, please contact:
 
 **Juan C. Huillcas**  
 Email: [huillcas.juan3@gmail.com](mailto:huillcas.juan3@gmail.com)  
-LinkedIn: [Juan C. Huillcas](www.linkedin.com/in/juan-carlos-huillcas)  
+LinkedIn: [Juan C. Huillcas](https://www.linkedin.com/in/juan-carlos-huillcas)  
 
 ---
